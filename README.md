@@ -26,5 +26,5 @@ This repo will contain:
 - Personal thoughts and experiments
 
 ## Why GitHub
-This is not a portfolio.
-It is a thinking space.
+- This is not a portfolio.
+- It is a thinking space.
