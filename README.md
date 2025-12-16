@@ -24,3 +24,7 @@ This repo will contain:
 - Technology insights
 - Book summaries
 - Personal thoughts and experiments
+
+## Why GitHub
+This is not a portfolio.
+It is a thinking space.
