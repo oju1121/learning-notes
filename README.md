@@ -24,9 +24,3 @@ This repository is actively updated when time and mental space allow.
 
 ---
 Last updated: 2025-12
-
-何のためのRepoか（1行）
-
-誰向けか（自分）
-
-今後やる予定（TODO）
