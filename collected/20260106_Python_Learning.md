@@ -24,7 +24,8 @@ python ファイル名.py
 プログラムから  
 部品として  
 使われるときは  
-動きません。
+動きません。  
+  
 <img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/7967cb9c-9d14-486d-9c2c-b0df404fcfee" />
 
 ----
