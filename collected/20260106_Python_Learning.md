@@ -29,28 +29,6 @@ python ファイル名.py
 <img width="275" height="76" alt="image" src="https://github.com/user-attachments/assets/7967cb9c-9d14-486d-9c2c-b0df404fcfee" />
 
 ----
- try:  
-----
-
-「エラーが  
-起きるかも  
-しれない  
-けど、  
-試してみる」  
-という  
-意味です。  
-  
-この下の  
-コードを  
-実行中に  
-エラーが  
-出ても、  
-  
-プログラムが  
-止まらない  
-ように  
-します。  
-
 ----
 from tkinter import ttk
 ----
